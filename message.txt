@@ -1,0 +1,3 @@
+Dzień dobry studencie {} uczniu klasy {},
+To jest przypomnienie, że masz jeszcze {} zadań do wykonania
+Twoja obecna ocena to {} i może wzrosnąć do {}, jeśli prześlesz wszystkie zadania przed końcem czerwca."
